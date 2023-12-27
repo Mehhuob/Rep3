@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Kim",
+  "age": 56,
+  "address": {
+    "street": "Wiblu Square",
+    "city": "Sasvucna",
+    "state": "VA",
+    "zip": "75683"
+  },
+  "contact": {
+    "phone": "(388) 471-1563",
+    "servicePhone": "800419712"
+  },
+  "birthday": "1997-04-10T08:58:10.485Z",
+  "ip": "129.123.10.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Woti akawiwuj kakwav fednujval gohhesri ocmeta buraset rew haha sahodwa ze vizahu uk. Kubbure isi moh suhra lawap ese is duwdotte rutgumze ira lemo zafehol. Akokima pat dij osfoh sivo begusa cibi jignu pifewew job zuwlu vagen evbalar coihicok.",
+    "bio": "Ku muhiheoh bigap tum mepalil edatuw dag wam vit moruvfij do malnofzog va ukike. Kicvaf he bahuheza relnos hasi ahefi wozemul herpo mozbeeru loc fusaj razgenzon ebimonel. Ilinofef pablez guv geakto bo kesuceg al habzad midced woljul uhi nutkefdaw pika. Jotoun dazoro hecugov kancub cunvu eb rohojrog viga duveko neb fewosu de."
+  },
+  "apiKey": "f64e541159f6d936fc5a1fbdb3efabfe6ea3080ce7715dd99564bfe339a74969",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
