@@ -1,0 +1,26 @@
+{
+  "name": "Susie Phelps",
+  "age": 42,
+  "address": {
+    "street": "Asedu Trail",
+    "city": "Vowoshem",
+    "state": "ND",
+    "zip": "57874"
+  },
+  "contact": {
+    "phone": "(667) 961-4414",
+    "servicePhone": "800145396"
+  },
+  "birthday": "1968-06-18T04:23:07.473Z",
+  "ip": "24.69.162.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Wegevu vunufi ifwor ibnaska gupihwi misuamu ov ji gisjo ahubuk mazes bu durnoped caj ensi. Uze focleav virjole vakele aho figral sad me fuziw ofkub zig mijo zu pormu. Ni kidnailu pob jagal fo ze putukpab webofuf cig advasa idebetsej bezhe fepigje er bafbol ninla ve kef.",
+    "bio": "Pelodsow cesri isakal dug abi zepag vuw feala nu madtiapi ra vaduj noh. Ofnozot poug sig fud julco ju ajija fuk ewbusut itolal ucewejpij kar mi tam ik pakaj. Ugibco tut omjipken ispef jaw obcujo sa ecduh ci worife otle do dufumot dim pe bogu irtohej."
+  },
+  "apiKey": "56b9b8547ed8e215778272c1d1d86db9fbc7ed0711798112ea42c1406bd983b3",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
