@@ -1,0 +1,26 @@
+{
+  "name": "Laura Haynes",
+  "age": 58,
+  "address": {
+    "street": "Fale Manor",
+    "city": "Cedoti",
+    "state": "IN",
+    "zip": "95474"
+  },
+  "contact": {
+    "phone": "(261) 847-8502",
+    "servicePhone": "800518728"
+  },
+  "birthday": "2005-09-19T05:53:56.875Z",
+  "ip": "241.41.84.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo nuid jelsoj kodwo cegabo huzwe ravep awomigak hoiwtu ku fibfi lilrij peghis odivgod. Tuf govuma jut oc celmav pi ofudawe jo mo mousa hiac emogibhum. Fa molmuw agaciof zatuniz fadugnit kidud objodho ukhicu nusmuc ra lu piwan.",
+    "bio": "Fogepci ujtefim waipguk nujo ezuogwe sefsi cozhan urowo vevciavi ajiuducoc rapwe fanuvpub sunoc wer pauhuhac om agtulho. Pihvoji bem obipam gimujosa ewralmez gubabezun ufadace ho ka tisuc za jetu vimtabi hu. Ikinen jorfezo us cijfedpo zeh maveiso ugosele guh levsi fehigli ew oce dorneca cojup lesdeapa. Fatedif dopi wafehji ezi copoc ad icpal biztam erkoju re hanipso kijza jif elite ki nilgu. Kadjeh zanponon cebi niihato ovgujku labo kalec avo de he gice puj."
+  },
+  "apiKey": "96c32eb580498277da1f5f6475c98583cdd3624d08b4e1faaeb77ec57e8e0514",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
