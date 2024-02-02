@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Wright",
+  "age": 28,
+  "address": {
+    "street": "Zowi Road",
+    "city": "Wasozihi",
+    "state": "MA",
+    "zip": "96393"
+  },
+  "contact": {
+    "phone": "(278) 825-1776",
+    "servicePhone": "800655315"
+  },
+  "birthday": "1983-05-21T05:17:20.695Z",
+  "ip": "97.210.230.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri oz mufvu za ehboz lotduper urogal vipzucjib zabar muv od zuw leba arrito lifpokek tajovji. Seoza jis las eto iwu genihlij senfo pup sap dedimaul ado walnof nib on perer. Disad wes cohloh degiiw jo recadi baivasud bal ob gef fogumaj tufwibiv.",
+    "bio": "Pownuni ronezzej zed vedizin jarud met cibpi itadaguf iva duvika ut rood ha bizhe. Bage oworavov ivovefna dad odbobot rebpumun rijuw vikumno jajofha zomudze sugji nub uzensuh do agbiffov. Buzij sah volihze efeja duecewur fu sokhu unu izaneca jibo jom wiwkulod ze vahpi ik lew. Deito oguawoda ur tamsareta ivvigca peju feeko segof vakejerof jetmozto awe hij zoowbo degaram."
+  },
+  "apiKey": "2b81e0d18c1e89f76757141624d8fb42e56dbcb55b8f0719ecbeeab44f808f56",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
