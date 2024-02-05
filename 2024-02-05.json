@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Houston",
+  "age": 31,
+  "address": {
+    "street": "Pucut Drive",
+    "city": "Alipalef",
+    "state": "SD",
+    "zip": "47307"
+  },
+  "contact": {
+    "phone": "(788) 624-6629",
+    "servicePhone": "800461861"
+  },
+  "birthday": "1989-09-07T01:19:11.598Z",
+  "ip": "236.83.201.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki hatikur ezliezo ati dif imeha kumhaltad pacwu kiag huczub dap uzara niaranun ur mok wa rorigi powar. Bi per inoiwu iwi mi bakcu repihuj ca pede udotuhan ake wiposew zidlovov hovluvjop. Ebilij rinapfe apanaeh zod wi vef weup udaik co otibewob ritafiz movcutif posis goipeup lucov hecbu at.",
+    "bio": "Kalus jasemto adaipji polik tos ije cu mawo amekup pubfeir obwu dukbizel gaphaszef. Utijif ta odetokim cu nebo lig ov dakfemcem apu uwuvuro koni girotfe corjip ih kesecun kewov oflollo pafo. Ot ted ub ini govvah ozcodsi le ogoup vi voc wojuli dahhorir mokkasfij udipa zolla sasezem."
+  },
+  "apiKey": "bc99f1fa7aa9f3dcab310dbd8501430dae1cf0d31c85f97ced0d58b0c653bc32",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
