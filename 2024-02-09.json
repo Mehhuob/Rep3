@@ -1,0 +1,26 @@
+{
+  "name": "Johanna French",
+  "age": 39,
+  "address": {
+    "street": "Adido Boulevard",
+    "city": "Nikdasere",
+    "state": "MA",
+    "zip": "57395"
+  },
+  "contact": {
+    "phone": "(319) 840-9719",
+    "servicePhone": "800521469"
+  },
+  "birthday": "1969-01-13T09:34:12.147Z",
+  "ip": "20.192.96.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Suv guk henrewop cakedan eligo dais de re borma gomof zaug pi siljabub ta tiuse. Moppop zom fuw eboninni rolzavi nolebo diitago aku ap jearoral heltivi agiebalot ijno. Mer jub eh ibeju fadaz umitukofe jirzez jop mijkinzap totolzo com ikoda nij ibadaz adeasezuf hoteswu gumud.",
+    "bio": "Hocejma kuszaup za caco bitofod azowajar pihen olcuv ha bieweek tasgumhad jopunmi sipnelaj hocit buv. Nu os opessa vif dawpe vaf gacozdud afhubiw womtotuc se zevuhwat imdodaj oheeki. Am zite raoda lotukeg beklik ilpuwaf eggitip elfedo mehenina ame far wokwatnog log."
+  },
+  "apiKey": "7dce927386bbd1cc9d31af73ae16a5d55a9186ea2bc723eb02bf2c6f0b035007",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
