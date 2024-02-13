@@ -1,0 +1,26 @@
+{
+  "name": "Isaiah Davis",
+  "age": 24,
+  "address": {
+    "street": "Talve Circle",
+    "city": "Illewe",
+    "state": "TX",
+    "zip": "49693"
+  },
+  "contact": {
+    "phone": "(765) 420-4424",
+    "servicePhone": "800474373"
+  },
+  "birthday": "1992-03-26T03:08:17.937Z",
+  "ip": "120.242.170.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Sadzig geevuko sefihi lab muaz mut duzi buudoemi vu ed wed heze fulwegdev ket idocadzuw lovbufmuz kurnebu. Bo ke ibezemi zumbe dihzis suza revozpa nu ugefuco zobu sa ren pulah. Wuf cedmovoz jibofe pim uszas wamob otaeja wa utvi nodig rarro jumgagu.",
+    "bio": "Ep lavneum tezif obigis ula barvuvsiz umafiale goge mubep zozgemne dij or. Hasrilu favu zibse imvo fiuwij uwivav etutebo lu boica wubab kaulnob ivnuw balo ubbufof zap. Zin tihuino otume cipimrum maarudu lav rod icpirkih gam barsol nuter jemu muviziw ukizoka. Ce sohi jurjop aj fap non vudeb olo ife ha gevbu mowaw jo fo siuga karumsuj."
+  },
+  "apiKey": "890f538d2c942dff8e408ae62dbd2a81384a676bc9b8852c10d3068b30257a7c",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
