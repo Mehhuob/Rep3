@@ -1,0 +1,26 @@
+{
+  "name": "Steven Ball",
+  "age": 37,
+  "address": {
+    "street": "Ugofe Court",
+    "city": "Gujeriw",
+    "state": "ID",
+    "zip": "13795"
+  },
+  "contact": {
+    "phone": "(771) 601-7165",
+    "servicePhone": "800456973"
+  },
+  "birthday": "1988-10-18T08:56:29.205Z",
+  "ip": "153.23.100.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Haco imazirwih hezwina suerho hu darneme neigzu coh ba zohpep zalbaj fonawe zot godosu activ fejgoc. Jupecki tiemda kuszu apulajih ce ka tali eho id bulwappuj pipwo ok runpa houba. Je mu bocpojvu upu nibepa dufhedbe me te bev egarektec apu rarka zigunih.",
+    "bio": "Rorcol taoftap fes vame ugi aj pahodmo ip juwe web cejeefa ti. Low fonipovi luinlud jo ewmudu pab ba el wuj viv susejih oputakav on namacoj edafuipa. Omi kebup ritaepu pag vik tur vufkugru ne zufnudrof okva rivik luv uci."
+  },
+  "apiKey": "56886175bbca81b2cbf66aaa270081d9e9fc3a453fd4a2e93cae0c87328a9036",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
