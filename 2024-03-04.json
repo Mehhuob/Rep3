@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve Meyer",
+  "age": 47,
+  "address": {
+    "street": "Selhab Court",
+    "city": "Govufo",
+    "state": "NJ",
+    "zip": "89898"
+  },
+  "contact": {
+    "phone": "(680) 250-7755",
+    "servicePhone": "800767631"
+  },
+  "birthday": "1995-06-27T04:45:52.775Z",
+  "ip": "250.27.32.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Il co debemku gurikadu av sefcowa lo po rofiz nu weusji laino venah upejazi dedmeci. Cabi ecco eswo hob mu sac ap pohuz rupwukri cibmukib suvemaf gepgafvic. Mazapdib vuractu tozku jusbe ezfoftug dawilo mele sodisfo re zidor botvud owrupjor namfulus rak. Ik he owbis foucite fomil loit eski omo kiroclo uphiz jo kopmej cu aduhri mir.",
+    "bio": "Jetak enim nuzagew botacuj cazpet fimimgun foekiju lepimga ekaes mal loovda jiz. Pomuk kavoj fem vizdidil gabhariw hoh vi umazkuz fofva ga kiubo puat emboozo nego moit kaocezet cerewu. Wofibpe vuri haare vivihoba gubaw ebtij vato cilpu mu iptifpa juzivug ipde."
+  },
+  "apiKey": "366d56e5561e1c2df043b71b449b7d10b5f57e3bc7a3c67b33c008751675888f",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
