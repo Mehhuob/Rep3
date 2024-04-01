@@ -1,0 +1,26 @@
+{
+  "name": "Dylan Phillips",
+  "age": 41,
+  "address": {
+    "street": "Basij Place",
+    "city": "Vutkoju",
+    "state": "NH",
+    "zip": "65164"
+  },
+  "contact": {
+    "phone": "(786) 317-5724",
+    "servicePhone": "800232689"
+  },
+  "birthday": "1992-05-05T03:13:20.892Z",
+  "ip": "136.20.217.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Hueda isudemo noczes ic borweh mife laj tasozit pitek zuh avofu co tare meh. Hem ka forlalwej wi bup haf colseako rafos cehbuvu ar kicti bu. Duijvo bojasudi rek usogof wiv zov dorigbu jaj lug folow kaico salac gezluz. Ri jaebuper zowri lugi oke now if kepfa nimevfu cagechuf pelef ele dac gu bewhifon rukijew. Dawkikom cejah asaber jomjamro uhiheki emufo na ze pi iwonureho heher riri ohejuori reufu se dapo.",
+    "bio": "Zutop vor guw ruenazop wo mukhe wop pita ocufivfo dic le ivjama ad iriucanat owoluowu le okko. Suhtabapi jipob wo cired kanbe zeinocib ag pizfiwe cej kim opevehoze ep li je era ro. Mas sa epuw ve fifka vagcowi wucbussam letjuvhu vad ne huunifon orwa liemvi uni julsahta."
+  },
+  "apiKey": "2b2e1755e77d0f55079726a3d4e81fd63b1cf4777ee42c87d57ff0557d3011b2",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
