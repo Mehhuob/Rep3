@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Day",
+  "age": 38,
+  "address": {
+    "street": "Fara Path",
+    "city": "Dobjeveru",
+    "state": "RI",
+    "zip": "28178"
+  },
+  "contact": {
+    "phone": "(223) 615-6187",
+    "servicePhone": "800671579"
+  },
+  "birthday": "1979-02-06T08:14:21.777Z",
+  "ip": "17.137.182.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Funito ejenebni sob wenolij vip haucopem jibe ke ca malidsu ojozusiw hedadwo kaka afesi ujohcac os todfer japdal. Hiw ri hakuk kemdu waritiho relbof ajpep konkag wifofuaf ob ila buzkuwto. Enalothew omiic lusum bejukdi pajnol bo pa ifviw co soas mir uflel aku fu aziti pekegu. Pojpojoh sawwauw ob lakozvar mu wo pozda aracezzon abasob kiw nawa be vuvke ba co.",
+    "bio": "Peukuva inbo fo kuwiso puliku pocovla esuvejja fav zabworaga vohejri diluwju zogku. Wucuvpi um filu fukri naj civ ho vazah lapalu haegco cevev iklap bu cuza huk va. Ittu ojo peib ko ekto va nilewki pe reohe ihu zeoho se kogvu tacvimho."
+  },
+  "apiKey": "e0af6b3585dde79271efc178f193a81391ce012978dfa24788d3324257d205f3",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
