@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Freeman",
+  "age": 30,
+  "address": {
+    "street": "Gutom Way",
+    "city": "Zutijavic",
+    "state": "DE",
+    "zip": "84117"
+  },
+  "contact": {
+    "phone": "(721) 583-9025",
+    "servicePhone": "800791765"
+  },
+  "birthday": "1992-11-09T01:37:13.647Z",
+  "ip": "27.108.230.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Biw tenofce vij bo kub uwejlo pujejlir wirewuh amweboj lada sirac fubu iratu datip tosehu ejado siez. Odaeguel cun cag davzokuk ohinusic erkig teccan udasabem bavoaza jawtumju umkabmoh koviluz gi ecisej jil tudlo miwu zafiwje. Loto eco kiput tuig ap izu noktokep dev erjojig fo heh rohfen era.",
+    "bio": "Izozeda zineg ji omom icma kehze wodmuar genam hu ose ablinin mu guemo dikfi tosi detaas joz vep. Sozfive hol fumocduz ejnibu ihjuud nec tan paok cev wezapa iljuow caksabeg. Fe fo penpe zozzagfi vaca rivrupi wivip ursuhow vetum mogezjub bejupot robsotaf ne ha bujejbu ri kotlova. Habas getiw irtumud riac vu cabifi fi lohuk or watik wijjige kuliola kuhita."
+  },
+  "apiKey": "ee878a832ef8c887cc7f7f3e56cff43634c6c4aa37318ebceff4483d10e53a99",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
