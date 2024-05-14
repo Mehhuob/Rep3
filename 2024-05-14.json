@@ -1,0 +1,26 @@
+{
+  "name": "Cameron Boone",
+  "age": 26,
+  "address": {
+    "street": "Zisaw Court",
+    "city": "Natzini",
+    "state": "NE",
+    "zip": "26908"
+  },
+  "contact": {
+    "phone": "(819) 294-9079",
+    "servicePhone": "800565517"
+  },
+  "birthday": "1996-10-16T07:52:51.470Z",
+  "ip": "58.181.204.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Coh moglo ja bo oniicit zetva iniro li sek tu zi vewuflaz. Gem gaseke juunwec lep ovcur opamido si medduufi ah sar isucotoh lugezi nev julatcad. Kew huiconi vazo sej rutgi dib en zu alu tep moctaci virhazam.",
+    "bio": "Ziwi ti likhiz buh cipog ipe fifpigmag mal ivi uriri foonhac ehok ro do zi moud. Mer cek fus culfaj ugagizla ziekeku hiv ki su nipcikda zussihpa po jan si acahecjab bevoh joobevi. Oda we kavunuf cotav zarpik buz buweri dewufvec pig ful liasdav hagupow pih jefaw es busohak."
+  },
+  "apiKey": "c26213b6654a170a010c033c159b1488b24f93caa2edefbc67970cd5bb991aeb",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
