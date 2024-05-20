@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Harper",
+  "age": 56,
+  "address": {
+    "street": "Anfi Grove",
+    "city": "Vagparup",
+    "state": "IN",
+    "zip": "76896"
+  },
+  "contact": {
+    "phone": "(984) 454-3817",
+    "servicePhone": "800926931"
+  },
+  "birthday": "2004-04-22T10:13:44.232Z",
+  "ip": "106.242.201.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Weh ismirnom ori be nipufa va nipisag bofehadi baw pabelif of himeb avjuv vagnik ajpu tidizjar. Et sumu adudu iggum ucwur gewof pufore ciraoh ubosoge atmu tioz booka suvuuw. Ado fazpid zihmubgu bazedefa mehocjut faskohnog oddezre nuwe behaceg pej ehudal lekzohra pugfivowa wonipza. Ciubvel hefabhub di fakjigton fodi mac ve ten ajizpak de ba makuw oropigu kapboskaj cesleuvu rew.",
+    "bio": "Sa tizpifca me rew zan pofwodezo hupzojjib belhib di nile tere uk. Zajgezja jebwod gommojseg aweoce obuwucah zekal po lokfaz onufakuv umowo jef mic. Doc ruludjoz seiji mejukud doposi acijbo ze govgufag memis no bahne jazgarid puvrijfe ju."
+  },
+  "apiKey": "fdd3eead03e861adc00bce9f1a4c72f312b105a4f26914e7e70c57b9a5408782",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
