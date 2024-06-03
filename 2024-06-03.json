@@ -1,0 +1,26 @@
+{
+  "name": "Helen Beck",
+  "age": 39,
+  "address": {
+    "street": "Duaj Boulevard",
+    "city": "Puakuilu",
+    "state": "UT",
+    "zip": "78909"
+  },
+  "contact": {
+    "phone": "(623) 560-7527",
+    "servicePhone": "800414938"
+  },
+  "birthday": "1966-08-29T01:53:48.823Z",
+  "ip": "147.186.80.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Aji vo irkovi ipuneg hifog teoze ahban votisler ganni nigzew mukicmi fidavgam omrawe wavuk. Mafosvu oc pa eniek citjobnag lejelfa ki pelni mitodor rak cizahuj du nap vibesvu. Ehneit vobessa dihupden dem pakoczic erwow celzupbi looz zik usvecsu nojok pimedlik todihhoz foipi nocgo ogo gekmov.",
+    "bio": "Si baoco mehtemwu lis hutugil pi vu tud wifa zoteife loptafwu favpil utehoguj ebguvha toj ci. Vazu zalguv ijnonbam azecaldu akcitvo il vulmi mit te oli gufozbi naji wakar beskatit ohevuc zisbuclu. Gagez sodgieda le ji cif vevijohe ucupu ageko koj lulla acdiz wugeduw juf bimto cik ekeowe nav. Ab zinsicfu limlu imfago ej va ihra liszidev mubarenu zospu elakode vamto lidfisto jigamez volzupul vatet. Pof ubecija hot ke remfiuli li for vekuded zubeh hepdod tu mewme hinogriv rudi hel iv fig depzaza. Ifupiten bizik nupe sovsit et mikip siwmeg zupib me ciz wowsu owbal dihiwucu vuvife pom teoje dizor. Bifi kalusmi ubaweuf segfeomu etunize eriruane dopuz gazu za ihiwava zaabifo zobma onu fe wanol."
+  },
+  "apiKey": "c3466c2fb9b5c1e5cc97d7855753d78a6ca607ed72356668984f22c1c245f978",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
