@@ -1,0 +1,26 @@
+{
+  "name": "Martin Greer",
+  "age": 56,
+  "address": {
+    "street": "Zikus Boulevard",
+    "city": "Ewmifitu",
+    "state": "VA",
+    "zip": "88439"
+  },
+  "contact": {
+    "phone": "(935) 513-3891",
+    "servicePhone": "800463533"
+  },
+  "birthday": "1992-08-20T09:42:28.772Z",
+  "ip": "215.248.236.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Mavwuni vevon kescum kiet lo aga zopru sew ijuacpi itojais el ba kojotah. Vuicu vuw idze abelho hor ce merle biv rodocu fer gotasur duvbew. Was lekigvod fod eh lamaj tuczacbu gibij ratup acnotku celidu ujobo juhighut li tuwbuw sizkav sianehug sisoh.",
+    "bio": "Luwac isu niz budzokop teew teage juwmik sisnupuf kanziv ulizerdar zifjam novucsij puura tehasour esansu gula ji jec. Wa itial miro pabu tu ziizi ide bevav aje futo ifu elvatkow dodpez cispolga uhimim wabgis vewdeoji. Lawu nopumga dadmura dazohri buj wettap ojevinu mu mof kita heco betipin be. Muw cugel ravji ruacial rollof osu voheju tarijbu jahcif efonimizo vifascec ko."
+  },
+  "apiKey": "a3f3b4630ac1704defcb3b08a1116a96408d53cd3dc34c6a9f40ebcf532bbdd7",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
