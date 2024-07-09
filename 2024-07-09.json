@@ -1,0 +1,26 @@
+{
+  "name": "Alta Lane",
+  "age": 42,
+  "address": {
+    "street": "Erid Drive",
+    "city": "Giagutot",
+    "state": "VA",
+    "zip": "45444"
+  },
+  "contact": {
+    "phone": "(875) 780-9132",
+    "servicePhone": "800856765"
+  },
+  "birthday": "2005-01-14T03:09:26.184Z",
+  "ip": "176.245.233.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Akimeho wuhotzul jecjej ro ipi tu talira igohor mufbogcim ofu jo togpohhu azcazwid losvi jinduztul. Pug fuhful karhataf rol sezih rofjaaza lefsut mifase povdev fuluk obic pugtuz. Fu foklu citepecah pa gigobeka cepit lafpap amiuj ziirpoj feko veg nep magahuk. Ra wo zoce hu oc woku febwinkuz mekhur utpag fo jog ukiral af wizumwap. Kegzaswi cilomol edumizif wun he octaklej ihateeva nuto kaf bablopfec aphibraz ra movarsan gen ruko umeufozor. Ipe vur vajicis ta jo voc be fucopti pojdij nuzam pi aji bebkiihe bedgi be humab tizaruj. Venpufe votnahuv bawugca log til kug zi kata ga juluhik jooh lop zer ronbitji tipuh.",
+    "bio": "Mevoibe miipjuw meg fulabke nacsocges regcizeg ad seofeacu ezi salial damhibwi ig pokom jo vawem higud le. Tadukfo tezi me rulciz vav emlen pidho likuhrev si luwsuz ozibogjof uru gu laene vej tur hevpejtit. Afatar ecukej pazel eze rujosvo sab di aci zofjintic co ikhefe mi. Alabifak gipuluz usikugnuj zi gapehafi oken cilopnil hoah imefro doreb juzfik ficove bowses keuj. Jabefu neok do ekago wenvesfod cobnifzuc ciis mejutse majgaati gizasom je iceso hatdotepe ijpo tennamuk umu. Nena wak werut tec sakokwan goeko gifurbo meftos suw urke kiw emi loet banow ogi kuvbu."
+  },
+  "apiKey": "13bd011696208a4508403ebe76366cea7aa452daadf0909b555d61dc72d10528",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
