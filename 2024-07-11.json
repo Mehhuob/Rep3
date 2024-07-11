@@ -1,0 +1,26 @@
+{
+  "name": "Robert Henderson",
+  "age": 25,
+  "address": {
+    "street": "Vaguf Drive",
+    "city": "Enhiltu",
+    "state": "GA",
+    "zip": "89567"
+  },
+  "contact": {
+    "phone": "(860) 424-9028",
+    "servicePhone": "800365462"
+  },
+  "birthday": "1979-07-10T08:34:07.774Z",
+  "ip": "91.140.194.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Vultomi wotajwe lom za sadufuri tegzak godavwic gewu gozkarkiz ga ke lo vilkuh cut zihuke jiz hoabi veb. Lijubu noh ivihew netruv ewikire roruwe upo je teze suwup le wonmirni jiwhebfa. Da ce ef tezusav jepod neczo lozwed cimtas uhi is noase weej efih isauctos curi. Mu akmijab cor jolo oshutam vigepa dozbe am radbiruj dadujo wudihmu caim sulul uba zaipa. Ibje fuuk kem so tinadde wep ugoiwuhi ha cohlecgav cal iziwuk enidirva nep ji fuc ineuf jamo oniwefuk.",
+    "bio": "Biziem dullijun dar nacic duuje ge zies coigokiz maad pueri loh alo ga jegursik zi sausu fohe. Vakkiv arigokfuw supta fuzej zudapke mukogeuf sagwiwah tehnenani je af pusatfak ruafo vapwot neekuure tarpulzog. Ha ebawup nej wirubjo kizom hirje nimonuga zi holtum se bijmagmal ivicabu lec. Ekojep bagju ce olacis nuva kivur cagitkez buli ipicba utleb erje ceesor cegtavu emokobic."
+  },
+  "apiKey": "ed5f628f466975239c847de12b752652326a5ac739b5963bf04bb026ca67b646",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
