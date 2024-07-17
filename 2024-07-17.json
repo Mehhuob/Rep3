@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Brady",
+  "age": 46,
+  "address": {
+    "street": "Bizib Way",
+    "city": "Tokaghu",
+    "state": "GA",
+    "zip": "19242"
+  },
+  "contact": {
+    "phone": "(557) 502-9939",
+    "servicePhone": "800199347"
+  },
+  "birthday": "1966-11-14T10:33:26.320Z",
+  "ip": "137.228.98.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Paabos vu vus vumet buhof jalzeg fatiige vajom atumon rawmil rijav tez. Ja pivumi coclok wezodaloh nalel weeno unnil jolfe hudocmu ij nozam asgoar haze totge sanjumid cakudu. Hupolfo uvda ir zebko ina rodep awezir vijpuzo wipfu rom usoru un lontavom hi soohzuf. Lucnulgo og asmi tit oto majuw wuj sekemalu iggep fag etugudij ijajosaz jej istik fud pebso.",
+    "bio": "Lon fehop telobit ide riwwig muh vum zingapum kan kensu wavitidor tozlujeh. Ohki odugafuh tic evkek puk tolihmel savozwu ureat ru zeuro ro mewso ci ficho. Ce izlitme kujje sunmaj itulallil gafuga ibivo lumsodva popige laheje mep uwso ruze hiwukhel. Pizju buj jideh lotigfew owbeser elzozu medwibo rez galgil ujoofa uf vohla si wabage sisnet ja azec."
+  },
+  "apiKey": "43fd33e6d3b6ee2059653ffac5aa76519ed80e7ebf7bec6988783f4682349afe",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
