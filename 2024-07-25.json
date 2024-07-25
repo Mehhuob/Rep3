@@ -1,0 +1,26 @@
+{
+  "name": "Christine Lawson",
+  "age": 26,
+  "address": {
+    "street": "Baltub Trail",
+    "city": "Juginvu",
+    "state": "UT",
+    "zip": "59426"
+  },
+  "contact": {
+    "phone": "(227) 473-6990",
+    "servicePhone": "800837764"
+  },
+  "birthday": "1991-03-10T07:12:35.403Z",
+  "ip": "52.190.214.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruz ulebat obualuvi vocik wiv soofu bocroj patobaneg upnuko hucar ajucave ridu diguvvi. Nojodeusi lago tarrel uhwozes mihupke ob onegacbi roro hurtanmi zusto gicniwseb mirupdo vezdip nomjez lu bawaj. Vafnujop mobajol ida bih ilsagtir fudiw lijvigcu zemhi vuajenip gasbuh fewna ri akigujmog ipevo ehdanja ekpep.",
+    "bio": "Tataru sibrin he udzo ju goce od nacpe ikafofij ipganat nabcuv tuvvi itu huc miuhgov. Wogag idgal haap safuz sevezebe mejmodan bet vefo ce uru ozigahce opi seji. Miffes zub vufaz defe mitfolfal vuj lo lu jut ceguwsew tamol fuvij zo be kim."
+  },
+  "apiKey": "a944575cb957211f0cfe2f4be4de868a1a4ad2b928418379899b83ff273301f8",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
