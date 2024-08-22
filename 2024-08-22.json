@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Pittman",
+  "age": 51,
+  "address": {
+    "street": "Bakar Path",
+    "city": "Wiponis",
+    "state": "NV",
+    "zip": "72840"
+  },
+  "contact": {
+    "phone": "(875) 665-5894",
+    "servicePhone": "800561128"
+  },
+  "birthday": "2004-05-17T08:23:12.075Z",
+  "ip": "29.77.6.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Dotabaj mip alagok li kes ambij owiza dazonvi umbi bovditbuw fiwelju tuven uheaf buetna zutbuzud mino co fohni. Iz man sapo gicfudwo sapgilim tibuj pucvun wo wes vabedwic ziseseg ubowuhku bukus ruj. Jasuz bor wuuhiwe kag zavoti udenuwje igbi morutbuv jewan wi iheir zofi.",
+    "bio": "Hisfuk isguwof jijta vaihjul feb ludom wig za heritbak kostibiw adalaika keaweuva. Ra goaparit elzoniju ceztaz de titwuapu judtuz duni tenvuguk bubugbob dojseh warepu. Geverju kegfane pab covmez fe hes do zut wozzane zagnuhan edoohe fidkeli ka siw cagcefo hihofval apvulrud pokwaw. Zi dovoz dacfo hid hejna nur nav rovcisri du wo ewiesaca irgi gapjuse. Wod ugogip hacpuz zoz na ew ru ho kus naabauc luf nuz fujer vopkowfo. Moesa ufivovmet kuvfumfe jevaduk zomucto laz kerasi ezajed nu tatu tuowoj cah wikepde mec te bieg zini fupaveku."
+  },
+  "apiKey": "e91e4350e6d9f32b3b0407e5bec81d973cc17b69a9ccd10a19af28305e4dc37f",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
