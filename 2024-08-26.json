@@ -1,0 +1,26 @@
+{
+  "name": "Alice Ward",
+  "age": 21,
+  "address": {
+    "street": "Tonuj Heights",
+    "city": "Vomanuw",
+    "state": "IL",
+    "zip": "53155"
+  },
+  "contact": {
+    "phone": "(459) 463-9849",
+    "servicePhone": "800768193"
+  },
+  "birthday": "2003-09-18T03:22:05.611Z",
+  "ip": "217.10.28.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Ipepeer hife alisi kanez vozas muso kecejlid wokfu iwo apduduc imawij hobsowwe okrere si. Leeb rognali eze wafal hupavhi dawja ijoabopar etipotu gebgonaw usnat fesfer guwopal didcullus telu ki vavuwog uniba eku. Ek acanev cilned huvam ma idojutin fitzadid fi jitol bo lo hogebep fon uvauzu ita turok nojke.",
+    "bio": "Jealo pe fevta rucoup ciecjep fud savojihit fabkoig eplaf sunwosvu amjaz dadzojof zemel li nofler. Mosemla lofigi alsovo bid dor ir ucopaon pah fekekpu usospak rogo saw ere jitew lened. Giici afge kaceruna worar heflu zug gitsewov ca nioce viamu reh afeso rivudver povcozfiz."
+  },
+  "apiKey": "d15b18ecb52aa0be090622d5a74812168afa8a44e92323cf35ac066d0801fe3c",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
