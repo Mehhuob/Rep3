@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Saunders",
+  "age": 47,
+  "address": {
+    "street": "Neub Place",
+    "city": "Keasla",
+    "state": "TN",
+    "zip": "79128"
+  },
+  "contact": {
+    "phone": "(484) 903-2787",
+    "servicePhone": "800293656"
+  },
+  "birthday": "1969-05-29T10:35:18.587Z",
+  "ip": "77.21.222.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Guh akususmiw nu moregu otidu ipahojice baruz ker ojhozeg paj wesahhad jazmu hepzuh ji. Awlenawe fuhrib wab li peevu robva unemac na zen ponren jubip kus sepu kaoj no hel wonozupe me. Ihajawato wuthil ov zicol coszir zufo gu ensa ju rumdiw jesfutovu coijujot hijkuul.",
+    "bio": "Ber debgiz so wi befiuj difogtul wuk gus memetta kopzuw agbeh tuldib rib reuruova gotfem sow zento ut. Gitoboijo hicaesa iz mitana co hu birepmub tiptazem enwav movcab izlem diagasup capujnic zehumhe. Jibub ijtu lesiswo fehis oz sepep jispamtaz respuggi douza bo ofatdi mujcar zamdivu jersa gog doovesub ke."
+  },
+  "apiKey": "6f7a5ba2001edd057737f5d6d0cc1212bad8d3544544560355e24f9da408e195",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
