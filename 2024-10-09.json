@@ -1,0 +1,26 @@
+{
+  "name": "Danny Perry",
+  "age": 44,
+  "address": {
+    "street": "Ocodez Grove",
+    "city": "Tajocini",
+    "state": "NH",
+    "zip": "85008"
+  },
+  "contact": {
+    "phone": "(269) 565-9512",
+    "servicePhone": "800657255"
+  },
+  "birthday": "1970-01-22T12:10:03.904Z",
+  "ip": "139.39.32.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaela wa lev cialki ohukuf mujeon rec mefduh jis ifimav fewsa mebke wumbizalo emega he nusvevan maguhhu. Ubounumi eheuruma kenovi husa riske zaev cuma ajmo bami asuma tewumu raf ofe libfuw ejeluja pozipeva to ce. Kipnis kuleuz zowged uwuhefa vos hadubome mucupuge anwe mave uji wignijpo zassolid dokasoac dudcepuh wuonpo isbile lurawif ud. Zipe wolkiv porip wirkilsi pocdegmog evbi ico luwi viludej alinuzra kezof pufim. Jokpi denvamum za devomon alsi dolfu wodwibfi vebu nunvure lafrow mov herius oj pi afobo ral dusamto alo.",
+    "bio": "Etsizaw gu ebwokih ibovaohi tu kave re vesu ve fohhe zoswuros pizpa gere ajep. Bevola nuad aw nut wa beza kiwne cebut lowigenu salsuvja campu zifam. Pun na ewdo tijugwe zesok sandomsi noj ipoucjul ceslip du gij nov tepbuno cev inmo zilfi ker za."
+  },
+  "apiKey": "74bf5403fa8b59f4339fb54869dcc54fc2ba114ad6f0f3d6921471138479ca8d",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
