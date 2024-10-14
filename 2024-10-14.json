@@ -1,0 +1,26 @@
+{
+  "name": "Roger Parks",
+  "age": 35,
+  "address": {
+    "street": "Kaluv Terrace",
+    "city": "Redegku",
+    "state": "WI",
+    "zip": "91397"
+  },
+  "contact": {
+    "phone": "(631) 840-8228",
+    "servicePhone": "800964437"
+  },
+  "birthday": "1986-01-13T10:25:56.423Z",
+  "ip": "132.23.7.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Ih bilfocmes noj jinseon el rak luj ol kizzelho ehi taace apuakuasu. Bejjo ogeoc fiw fohhok lioca caj adopic bifigo mujuz lehofos hirawdo go ore goaru junwokop gir zopohoc irlog. Vico ipof vepluf wi hemad kuwpathaj ih edewe igiwujrip gig job zusro ojonoat gutwil gifhufmoz cevlazvon ja. Mag anopanat dejec wo dan irgu porip ve ofuapuir obuezekal fozguhi piftu kedu. Itudo zobmij ukujezu besa fo le ci ledimgad waceruuri sareru feifolu dewwifaf rukulju ketumo fagacaj umzer.",
+    "bio": "Teufu retzulvud feheko siksewap otolipu beri ru cijuj bif jifpu nemel ji oko. Go bukopo su nolikrug ha direwu cot jevivnir ir fiozev soogusut retwein atofe gohi lav copel. Imi jiultac upko pesepo ase ke javkosaj fakteb kaum dec wur irhajob obobo he sazfaan. Kihhait ziwakawo ejtuz cigfipob jor wowriw vudure pamvovog gon jaj vavom fojobud."
+  },
+  "apiKey": "b68f5b4949d0428406541a940363ca4429e1ed65354da29ad99671e666490377",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
