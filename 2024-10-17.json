@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Mann",
+  "age": 33,
+  "address": {
+    "street": "Enuuwe Grove",
+    "city": "Nuolvu",
+    "state": "NJ",
+    "zip": "21131"
+  },
+  "contact": {
+    "phone": "(539) 595-3895",
+    "servicePhone": "800856747"
+  },
+  "birthday": "1986-01-15T10:06:11.436Z",
+  "ip": "127.43.87.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu ilavad je debuher afse tahijnoc mol vu hetnuvlil tunaje ikeki zo zifowtes seiheru jeciaz jipenelu. Ereudbaj vidilu sibbiafo ho mivivol bimla cevofuh fawozadef fozbi lu rot mufowbi. Suteci jiukiv hogic ta pezoko ojta asi rigi okiukcub fimibnuf uhelizate kabfiw norofzu. Rumeru osgo misizovep azuikuug dikuvu nod gohuv il celjos cad rimduvabu mepzehzi le mip mo duceg zinpo.",
+    "bio": "Fofop oje ilabo se gocroh lo lokmev lomuphon wefhe duret jaizina fotaow jup elivojic ibadi cun huvsobris gulmek. Keul pa weamuvi adehedcag gamrusle sig kun alejo uha zaloruh oc pe ucuem hic sugifta ca merwil. Onaziweh ruv je bulhiru tuzuvtu bagu gibnav ira rol zab fuwozalo tu sum nelzice. Votseh li becedro lazpuf sahnajel hituba buzzecij gima pu zotez zov fussa sahsuwro pul rokopir tipmatom lahpadta. Uttazceb wel vah zuta ujivo son kimagim zevdubjos ku uro veluksu iksu iho mo pekajhi ozboej ji egbi. Piovowe kifugci jihefije zog dibije zaj agozeila len erubuuw ifo tab pip."
+  },
+  "apiKey": "54b2fe60b3fac6f510f013eac274e14b0e3060886bc91f21e47e82a082a5cd85",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
