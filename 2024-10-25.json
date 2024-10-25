@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Turner",
+  "age": 41,
+  "address": {
+    "street": "Cira Pike",
+    "city": "Bucaro",
+    "state": "DC",
+    "zip": "37639"
+  },
+  "contact": {
+    "phone": "(614) 592-7445",
+    "servicePhone": "800353384"
+  },
+  "birthday": "1981-01-10T11:59:48.184Z",
+  "ip": "123.221.234.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Sazatif ame gof hiw ca tijulta rozcohaf diw wameepi lodwo vabovi giok ova pevpimni ralug. Rotoglas kaim ukodavi ek mohijumu puwum nuzeca vewkote vufucdef vudopa meimsug vuw bup bepugo arve ehuweb ovvasdac zub. Opa ve fehun vi jutbeb nicak nalmucato ujhufol jik zuchejoh ra ba vokta avaig ca. Renaje mi odzupvo ejmistas ibifer pisuhvu do ahnaj vaar wo fejuec wozbud lu widbuv liwzis ceso. Kuwwohe wapeofi vi mava mepo habapo dikgef zohe ezozer raruvvad aktag sacbuc ogu apros kubko re tu.",
+    "bio": "Jeliowi ditgag lamfujib do juka cazeoha benrohik biknuvu ifodu ovezazic kadirrak gufe teod lufu kod jet aspodeto. Hipi dolfik zauma wigguvro ma uhima akipu icoza habefi came zihes hihmigu tomdiwbo recboce sudon hus. Wetsebden diloc ru hefjiw sosos jiub ju ki zasuho nihevik hafup acugem ivuzu virbil vatezu noekco. Law hepha viledo ohvahil puci riovipe zezan orumu moswulgo desawe capdur luzezbab fipkug puge pajozbap piizoguz. Daoruor vemgif jalaja ajedames ajoovmup hok ade wuf logivow tik rimtor lug dec fowmi doobihur. Zomud hu itedi tubuk kulu eboehvas tu zo liame uma rum ofe jevebke. Powhahrow dok dejiha foklegpu kosac sakemuake gesiz idibu voc ne se ga."
+  },
+  "apiKey": "2c0bbe48b1e550dc61a77efff1a91883318ab9a29c02026d723e8cb98259cd4a",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
