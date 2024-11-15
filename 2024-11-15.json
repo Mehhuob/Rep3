@@ -1,0 +1,26 @@
+{
+  "name": "Jared Fisher",
+  "age": 50,
+  "address": {
+    "street": "Asabud Park",
+    "city": "Vapmerzaj",
+    "state": "KY",
+    "zip": "82559"
+  },
+  "contact": {
+    "phone": "(848) 664-1610",
+    "servicePhone": "800578952"
+  },
+  "birthday": "1974-04-14T05:07:49.308Z",
+  "ip": "115.66.253.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko ugdisas se evofaj ize uwucohi sewujug obasu sana cionani vohlo ko winmis wo ot. Uso iv gasri numifno tablulfi jivom igirah ji izabi vesvo da sigmepet nibijaoc gal uragihi hi migudmoc. Nawikmo sul cak luwlotu kuvfak be nulhoh ud soprofoh vudej jigadzog riwicbum cito inaodav gugajwej eje.",
+    "bio": "Jictehfa fafjef nupsuk nipop tarco eg ke gesilji fub vifrav kaiw tov fehakesa. Vita pivnegah sufkefi umeugogab lih el hekgu cemof denaci fadloel gu pa bejgu wewnebigi gobpus dufe. Jel vac efni nesolza ejuf towdan pahcoero ija davov la difunzan vuf ecu ger ohueh jir in."
+  },
+  "apiKey": "80263209a03c18112698da64af5b6b23e563d6f1cd268b834a2b44eebec1c408",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
